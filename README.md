@@ -2,8 +2,6 @@
 
 基于vue-cli3，参考element-ui封装的一个UI组件库
 
-## dialog组件
-
 ## 安装项目 
 ```
 
